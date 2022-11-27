@@ -15,12 +15,12 @@ git rebase -i commit
 将commit替换为`commit号`
 
 ![pick](/assets/Git-Delete-Commit/pick.png)  
-4. 将被删除commit前面的`pick`替换为`drop`，**再三考虑后保存**  
-5. 输入以下命令检查是否被删除
+4.将被删除commit前面的`pick`替换为`drop`，**再三考虑后保存**  
+5.输入以下命令检查是否被删除
 ```
 git log 
 ```
-6.  最后输入以下命令推送至仓库即可
+6.最后输入以下命令推送至仓库即可
 ```
 git push origin HEAD --force
 ```
