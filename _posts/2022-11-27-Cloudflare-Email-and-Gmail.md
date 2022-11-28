@@ -35,11 +35,11 @@ title: 使用Cloudflare 电子邮件路由和Gmail收发邮件
 
 ![Add-another-email](/assets/Cloudflare-Email-and-Gmail/Add-another-email.png)
 
-4.出现一个弹窗，在`名称：`行输入邮箱的名称（会对外展示，请慎重填写），在`电子邮件地址：`行输入Cloudflare中添加的邮箱地址（请提前确认可以接收邮件），点击下一步，如下图所示：
+4.出现一个弹窗，在`名称：`行输入邮箱的名称（**会对外展示，请慎重填写**），在`电子邮件地址：`行输入Cloudflare中添加的邮箱地址（请提前确认可以接收邮件），点击下一步，如下图所示：
 
 ![Add-another-email-window1](/assets/Cloudflare-Email-and-Gmail/Add-another-email-window1.png)
 
-5.接下来提示通过SMTP服务器发送邮件，在`SMTP服务器：`行输入`smtp.gmail.com`，`用户名`行输入Gmail用户名，`密码`行输入之前获取的`应用专用密码`，点击`添加帐号 »`，如下图所示：
+5.接下来提示通过SMTP服务器发送邮件，在`SMTP服务器：`行输入`smtp.gmail.com`，`用户名`行输入`Gmail用户名`，`密码`行输入之前获取的`应用专用密码`，点击`添加帐号 »`，如下图所示：
 
 ![Add-another-email-window2](/assets/Cloudflare-Email-and-Gmail/Add-another-email-window2.png)
 
@@ -48,3 +48,4 @@ title: 使用Cloudflare 电子邮件路由和Gmail收发邮件
 ![Add-another-email-window3](/assets/Cloudflare-Email-and-Gmail/Add-another-email-window3.png)
 
 完成！
+引用:https://blog.shuziyimin.org/1355
