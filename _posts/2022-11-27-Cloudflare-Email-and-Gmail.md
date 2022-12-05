@@ -48,4 +48,5 @@ title: 使用Cloudflare 电子邮件路由和Gmail收发邮件
 ![Add-another-email-window3](/assets/Cloudflare-Email-and-Gmail/Add-another-email-window3.png)
 
 完成！
-引用:https://blog.shuziyimin.org/1355
+
+引用：https://blog.shuziyimin.org/1355
