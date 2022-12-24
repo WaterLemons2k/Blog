@@ -3,7 +3,7 @@ layout: post
 title: Git 只保留1条 commit
 ---
 
-如果您需要 Git 仓库**只保留1条 commit**，您可以：
+如果需要 Git 仓库**只保留1条 commit**，您可以：
 1. 首先，使用命令 `git checkout` 的 `--orphan` 选项创建一个空白分支（本文为 `temporary`）：
    ```
    git checkout --orphan temporary
@@ -24,7 +24,7 @@ title: Git 只保留1条 commit
    ```
    git branch -m main
    ```
-5. 最后，强制推送到 Git 仓库：
+6. 最后，强制推送到 Git 仓库：
    ```
    git push -f
    ```
