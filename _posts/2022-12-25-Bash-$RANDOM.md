@@ -11,6 +11,7 @@ echo $RANDOM
 ```bash
 echo $((RANDOM %10 + 1))
 ```
+相关文章：[使用 shuf 生成随机排列](shuf)
 
 参考：
 1. https://tldp.org/LDP/abs/html/randomvar.html
