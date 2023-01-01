@@ -37,7 +37,12 @@ echo Hello, World!
    ```
 完成！
 
-相关文章：[Git 删除 commit](Git-Delete-Commit) [Git 忽略文件修改](Git-skip-worktree) [Git 修改上次提交](Git-commit-amend) [Git 只保留1条 commit](Git-only-keep-1-commit) [Git 空提交和没有消息的提交](Git-empty-commit-and-empty-message)
+相关文章：
+- [Git 删除 commit](Git-Delete-Commit)
+- [Git 忽略文件修改](Git-skip-worktree)
+- [Git 修改上次提交](Git-commit-amend)
+- [Git 只保留1条 commit](Git-only-keep-1-commit)
+- [Git 空提交和没有消息的提交](Git-empty-commit-and-empty-message)
 
 参考：
 1. [Git - git-update-index Documentation](https://git-scm.com/docs/git-update-index#Documentation/git-update-index.txt---chmod-x)

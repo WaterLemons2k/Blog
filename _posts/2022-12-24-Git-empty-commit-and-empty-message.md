@@ -16,7 +16,12 @@ git commit --allow-empty-message -m ""
 ```
 git push
 ```
-相关文章：[Git 删除 commit](Git-Delete-Commit) [Git 忽略文件修改](Git-skip-worktree) [Git 修改上次提交](Git-commit-amend) [Git 只保留1条 commit](Git-only-keep-1-commit) [Git 为文件添加执行权限](Git-update-index-chmod=+x)
+相关文章：
+- [Git 删除 commit](Git-Delete-Commit)
+- [Git 忽略文件修改](Git-skip-worktree)
+- [Git 修改上次提交](Git-commit-amend)
+- [Git 只保留1条 commit](Git-only-keep-1-commit)
+- [Git 为文件添加执行权限](Git-update-index-chmod=+x)
 
 参考：
 1. [如何在 Git 中推送一个空的提交](https://www.freecodecamp.org/chinese/news/how-to-push-an-empty-commit-with-git/)
