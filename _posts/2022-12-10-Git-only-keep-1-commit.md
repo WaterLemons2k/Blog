@@ -30,6 +30,6 @@ title: Git 只保留1条 commit
    ```
 完成！
 
-相关文章：[Git 删除 commit](Git-Delete-Commit) [Git 忽略文件修改](Git-skip-worktree) [Git 修改上次提交](Git-commit-amend) [Git 空提交和没有消息的提交](Git-empty-commit-and-empty-message) [Git 为文件添加执行权限](Git-update-index--chmod=+x)
+相关文章：[Git 删除 commit](Git-Delete-Commit) [Git 忽略文件修改](Git-skip-worktree) [Git 修改上次提交](Git-commit-amend) [Git 空提交和没有消息的提交](Git-empty-commit-and-empty-message) [Git 为文件添加执行权限](Git-update-index-chmod=+x)
 
 参考：[GIT只保留最后一次提交代码 | 修心修己](https://xiusin.github.io/post/git-zhi-bao-liu-zui-hou-yi-ci-ti-jiao-dai-ma/)

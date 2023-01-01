@@ -34,6 +34,6 @@ git push -f
 ```
 完成！
 
-相关文章：[Git 删除 commit](Git-Delete-Commit) [Git 忽略文件修改](Git-skip-worktree) [Git 只保留1条 commit](Git-only-keep-1-commit) [Git 空提交和没有消息的提交](Git-empty-commit-and-empty-message) [Git 为文件添加执行权限](Git-update-index--chmod=+x)
+相关文章：[Git 删除 commit](Git-Delete-Commit) [Git 忽略文件修改](Git-skip-worktree) [Git 只保留1条 commit](Git-only-keep-1-commit) [Git 空提交和没有消息的提交](Git-empty-commit-and-empty-message) [Git 为文件添加执行权限](Git-update-index-chmod=+x)
 
 参考：[Git 修改已提交 commit 的信息 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1730774)
