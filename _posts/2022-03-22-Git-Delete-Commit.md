@@ -30,5 +30,6 @@ title: Git 删除 commit
 - [Git 只保留1条 commit](Git-only-keep-1-commit)
 - [Git 空提交和没有消息的提交](Git-empty-commit-and-empty-message) 
 - [Git 为文件添加执行权限](Git-update-index-chmod=+x)
+- [Git 撤销上一次 commit](Git-reset-soft-HEAD~1)
 
 参考：[强迫症如何干净删除 commit 记录 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1511875)

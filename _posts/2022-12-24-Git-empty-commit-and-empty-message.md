@@ -22,6 +22,7 @@ git push
 - [Git 修改上次提交](Git-commit-amend)
 - [Git 只保留1条 commit](Git-only-keep-1-commit)
 - [Git 为文件添加执行权限](Git-update-index-chmod=+x)
+- [Git 撤销上一次 commit](Git-reset-soft-HEAD~1)
 
 参考：
 1. [如何在 Git 中推送一个空的提交](https://www.freecodecamp.org/chinese/news/how-to-push-an-empty-commit-with-git/)

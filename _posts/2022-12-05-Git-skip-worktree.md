@@ -21,5 +21,6 @@ git update-index --no-skip-worktree file
 - [Git 只保留1条 commit](Git-only-keep-1-commit)
 - [Git 空提交和没有消息的提交](Git-empty-commit-and-empty-message)
 - [Git 为文件添加执行权限](Git-update-index-chmod=+x)
+- [Git 撤销上一次 commit](Git-reset-soft-HEAD~1)
 
 参考：[忽略 Git 存储库中的文件 - Azure Repos | Microsoft Learn](https://learn.microsoft.com/zh-cn/azure/devops/repos/git/ignore-files#use-git-update-index-to-ignore-changes)
