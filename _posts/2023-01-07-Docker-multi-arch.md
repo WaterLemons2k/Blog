@@ -84,10 +84,10 @@ docker buildx build --load --platform amd64 -t arch .
 - [Docker 删除未使用的数据](docker-system-prune)
 
 参考：
-1. [docker buildx | Docker Documentation](https://docs.docker.com/engine/reference/commandline/buildx/)
-2. [Multi-platform images | Docker Documentation](https://docs.docker.com/build/building/multi-platform/)
-3. [Dockerfile reference | Docker Documentation](https://docs.docker.com/engine/reference/builder/)
-4. [Install Docker Buildx | Docker Documentation](https://docs.docker.com/build/install-buildx/)
+1. [docker buildx - Docker Documentation](https://docs.docker.com/engine/reference/commandline/buildx/)
+2. [Multi-platform images - Docker Documentation](https://docs.docker.com/build/building/multi-platform/)
+3. [Dockerfile reference - Docker Documentation](https://docs.docker.com/engine/reference/builder/)
+4. [Install Docker Buildx - Docker Documentation](https://docs.docker.com/build/install-buildx/)
 5. [tonistiigi/binfmt: Cross-platform emulator collection distributed with Docker images.](https://github.com/tonistiigi/binfmt)
 6. [使用 buildx 构建多种系统架构支持的 Docker 镜像 - Docker — 从入门到实践](https://yeasy.gitbook.io/docker_practice/buildx/multi-arch-images)
 7. [Alpine Linux packages](https://pkgs.alpinelinux.org/package/edge/community/x86/docker-cli-buildx)
