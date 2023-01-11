@@ -33,6 +33,7 @@ echo Hello, World!
 5. 将 commit 提交到本地 Git 仓库：
    ```
    git commit -m "Add file.sh"
+   ```
 6. 最后，推送到远程 Git 仓库：
    ```
    git push
