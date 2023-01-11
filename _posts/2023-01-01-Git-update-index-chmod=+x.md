@@ -5,7 +5,6 @@ title: Git 为文件添加执行权限
 
 假设这里有一个名为 `file.sh` 的文件，内容如下：
 ```sh
-$ cat file.sh
 #!/bin/sh
 echo Hello, World!
 ```
@@ -20,7 +19,7 @@ echo Hello, World!
    100644 131b6b8bb46c8286541c6503f94b21a1fd25b200 0	file.sh
    ```
 
-   现在的权限是 `644`，没有执行权限
+   现在的权限是 `644`，**没有执行权限**
 3. 使用命令 `git update-index` 的 `--chmod=+x` 选项为文件添加执行权限：
    ```
    git update-index --chmod=+x file.sh
@@ -30,8 +29,11 @@ echo Hello, World!
    $ git ls-files -s
    100755 131b6b8bb46c8286541c6503f94b21a1fd25b200 0	file.sh
    ```
-   现在的权限是 `755`，拥有执行权限
-5. 最后，推送到远程 Git 仓库：
+   现在的权限是 `755`，**拥有执行权限**
+5. 将 commit 提交到本地 Git 仓库：
+   ```
+   git commit -m "Add file.sh"
+6. 最后，推送到远程 Git 仓库：
    ```
    git push
    ```
