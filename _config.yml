@@ -1,5 +1,5 @@
 lang: zh-CN
-markdown: GFM
+markdown: kramdown
 permalink: /:title
 title: WaterLemons2k的博客
 
