@@ -27,16 +27,14 @@ docker run --privileged --rm tonistiigi/binfmt --install all
 docker buildx create --use
 ```
 # 构建 Docker 镜像
-在当前目录创建 `Dockerfile` 文件，以下是示例：
+在当前目录创建 `Dockerfile` 文件，示例如下：
 ```Dockerfile
 FROM busybox:uclibc
 ARG TARGETARCH
 RUN echo "I'm building for $TARGETARCH"
 ```
-此示例 `Dockerfile` 文件声明基础镜像是 `busybox:uclibc`，声明架构变量 `TARGETARCH`，在构建时输出构建的架构  
-有关更多架构变量，请见：[Dockerfile reference | Docker Documentation](https://docs.docker.com/engine/reference/builder/#automatic-platform-args-in-the-global-scope)
 
-使用 `buildx` 命令构建架构为 `amd64`、`arm`、`arm64`，标签为 `arch` 的镜像：
+构建 `amd64`、`arm`、`arm64` 架构 ，`arch` 标签的镜像：
 ```
 docker buildx build --platform amd64,arm,arm64 -t arch .
 ```
@@ -74,7 +72,7 @@ WARN[0000] No output specified for docker-container driver. Build result will on
 ```
 docker buildx build --push --platform amd64,arm,arm64 -t arch .
 ```
-添加 `--load` 选项以将 Docker 镜像保存到本地（此选项仅支持同时构建 1 种架构）：
+添加 `--load` 选项以将 Docker 镜像保存到本地（此选项仅支持一次构建 1 种架构）：
 ```
 docker buildx build --load --platform amd64 -t arch . 
 ```
