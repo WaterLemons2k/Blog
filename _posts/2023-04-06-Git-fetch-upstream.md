@@ -72,5 +72,5 @@ title: Git 同步上游仓库
 - [Git 撤销上一次 commit](Git-reset-soft-HEAD~1)
 
 参考：
-1. [Syncing a fork - GitHub Docs](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork?platform=windows)
-2. [Git Upstreams and Forks: A Complete How-To | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
+1. [Syncing a fork - GitHub Docs](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
+2. [Git Upstreams and Forks: A Complete How-To - Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
