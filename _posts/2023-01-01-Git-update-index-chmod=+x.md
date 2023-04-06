@@ -47,6 +47,7 @@ echo Hello, World!
 - [Git 只保留1条 commit](Git-only-keep-1-commit)
 - [Git 空提交和没有消息的提交](Git-empty-commit-and-empty-message)
 - [Git 撤销上一次 commit](Git-reset-soft-HEAD~1)
+- [Git 同步上游仓库](Git-fetch-upstream)
 
 参考：
 1. [Git - git-update-index Documentation](https://git-scm.com/docs/git-update-index#Documentation/git-update-index.txt---chmod-x)
