@@ -1,7 +1,0 @@
-lang: zh-CN
-permalink: /:title
-title: WaterLemons2k的博客
-
-theme: minima
-minima:
-  date_format: "%Y年%m月%d日"
