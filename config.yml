@@ -411,7 +411,7 @@ params:
   # Easily browse and edit blog source code online.
   postEdit:
     enable: true
-    url: https://github.com/WaterLemons2k/Blog/blob/main/
+    url: https://github.com/WaterLemons2k/Blog/blob/main/content/
 
 
   # 设置文本的对齐方式
@@ -488,18 +488,12 @@ params:
   # 书签功能
   # Bookmark Support
   bookmark:
-    # 开启书签功能
-    # If true, will display bookmark in all page.
-    enable: true
+    # 关闭书签功能
+    # If false, won't display bookmark in all page.
+    enable: false
     # 自定义书签显示颜色
     # Customize the color of the bookmark.
     color: "#222"
-    # 支持方式： auto | manual
-    # auto: 当关闭页面或点击书签按钮时，会自动保存当前的阅读进度
-    # manual: 只有当点击书签按钮时才会保存阅读进度
-    # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
-    # If manual, only save it by clicking the bookmark-icon.
-    save: auto
 
   # 右上角在 Github 上面关注我的横幅
   # `Follow me on GitHub` banner in the top-right corner.
