@@ -143,9 +143,9 @@ params:
   #scheme: Pisces
   scheme: Gemini
 
-  # 关闭暗模式
+  # 开启暗模式
   # Dark Mode
-  darkmode: false
+  darkmode: true
 
   # 不同尺寸站点图标
   # Different size of favicon
