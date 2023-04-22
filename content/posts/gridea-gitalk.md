@@ -21,4 +21,4 @@ date: 2022-06-07
 点击使用 GitHub 登录，然后点击Authorize来授权  
 ![Authorize](/gridea-gitalk/Authorize.png)  
 完成!  
-相关博客:[使用Gridea在GitHub Pages上搭建博客](Gridea-on-GitHub-Pages)
+相关博客:[使用Gridea在GitHub Pages上搭建博客](/Gridea-on-GitHub-Pages)

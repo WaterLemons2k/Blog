@@ -6,7 +6,7 @@ date: 2022-11-27
 [Cloudflare 电子邮件路由](https://www.cloudflare.com/zh-cn/products/email-routing) 可以将个人域名的邮箱转发至其它邮箱，本文我们通过 Gmail 做到使用个人域名收发邮件。
 
 # Cloudflare 接收邮件
-1. 请确保已在 Cloudflare 上添加了用于收发邮件的站点（没有请看 [Cloudflare添加站点](Cloudflare-add-site)），然后点击 `电子邮件` -> `开始使用`：
+1. 请确保已在 Cloudflare 上添加了用于收发邮件的站点（没有请看 [Cloudflare添加站点](/Cloudflare-add-site)），然后点击 `电子邮件` -> `开始使用`：
 
    ![Start](/Cloudflare-Email-and-Gmail/Start.png)
 

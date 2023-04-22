@@ -16,4 +16,4 @@ date: 2022-06-07
 ![Pages](/Gridea-on-GitHub-Pages/Pages.png)
 
 完成!  
-相关博客:[Gridea使用Gitalk评论系统](gridea-gitalk)
+相关博客:[Gridea使用Gitalk评论系统](/gridea-gitalk)
