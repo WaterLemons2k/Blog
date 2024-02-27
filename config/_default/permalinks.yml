@@ -1,0 +1,4 @@
+# https://gohugo.io/content-management/urls/#permalinks
+# Ensure that the permalink contains only the filename
+post: /:filename
+page: /:filename

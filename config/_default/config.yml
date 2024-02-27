@@ -1,0 +1,13 @@
+# https://gohugo.io/getting-started/configuration/
+
+baseURL: https://blog.waterlemons2k.com/
+title: WaterLemons2k 的博客
+theme: github.com/CaiJimmy/hugo-theme-stack/v3
+
+languageCode: zh-cn
+defaultContentLanguage: zh-cn
+hasCJKLanguage: true
+
+# https://gohugo.io/getting-started/configuration/#disablepathtolower
+# Compitable with uppercase paths
+disablePathToLower: true

@@ -1,4 +1,2 @@
-github.com/hugo-next/hugo-theme-next v4.4.0+incompatible h1:SB93/l1B8Vbd6wZNWemrkyh2erbSlzWmC1uhSkz0z60=
-github.com/hugo-next/hugo-theme-next v4.4.0+incompatible/go.mod h1:d58SfYRRDZMt90HDyQVk1sUGACcdbHsEH6OdopnE5Fw=
-github.com/hugo-next/hugo-theme-next v4.5.3+incompatible h1:QTA1KsDS6WWFt3ZMYe2YLowXsgLVg3zu1xuNAzgVBEE=
-github.com/hugo-next/hugo-theme-next v4.5.3+incompatible/go.mod h1:d58SfYRRDZMt90HDyQVk1sUGACcdbHsEH6OdopnE5Fw=
+github.com/CaiJimmy/hugo-theme-stack/v3 v3.22.0 h1:cCY0XV13flJICqJ9b6LLfQOL5JxmDCll8Jn3GyMEtrI=
+github.com/CaiJimmy/hugo-theme-stack/v3 v3.22.0/go.mod h1:IPmCXiIxlFSLFYS0tOmYP6ySLviyeNVSabyvSuaxD+I=

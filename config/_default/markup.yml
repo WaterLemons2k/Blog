@@ -1,0 +1,5 @@
+# https://gohugo.io/getting-started/configuration-markup/#table-of-contents
+# Display the table of contents in an ordered list from h2 to h4
+tableOfContents:
+  endLevel: 4
+  ordered: true

@@ -1,0 +1,15 @@
+# https://stack.jimmycai.com/config/date-format#published
+# Use ISO 8601 for dates
+dateFormat:
+  published: 2006-01-02
+
+sidebar:
+  avatar:
+    enabled: false
+
+widgets:
+  homepage:
+    - type: search
+    - type: tag-cloud
+  page:
+    - type: toc
