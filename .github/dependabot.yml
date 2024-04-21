@@ -1,6 +1,9 @@
 version: 2
 updates:
-  - package-ecosystem: "gomod" # Go modules
-    directory: "/" # Location of package manifests
+  - package-ecosystem: gomod # Go modules
+    directory: / # Location of package manifests
     schedule:
-      interval: "daily"
+      interval: daily
+    allow:
+      # Allow both direct and indirect dependencies
+      - dependency-type: all
